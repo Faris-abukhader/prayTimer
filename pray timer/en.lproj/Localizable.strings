@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  pray timer
+
+  Created by admin on 2021/8/8.
+  
+*/
+"remainedTo" = "remained to";
+"Fajr" = "Fajr";
+"Sunrise" = "Sunrise";
+"Dhuhr" = "Dhuhr";
+"Asr" = "Asr";
+"Maghrib" = "Maghrib";
+"Isha" = "Isha";
